@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+curso = input("Digite seu curso: ")
+semestre = int(input("Digite seu semestre: "))
+hobby = input("Digite seu hobby favorito: ")
+print(f"\nPrazer, eu sou o(a) {nome}!\nAtualmente estou no {semestre}º semestre do curso de {curso} e meu hobby favorito é {hobby}.")
